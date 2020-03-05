@@ -124,7 +124,7 @@ body{
    
 }
 .body-content .card-body{
-    box-shadow: 0 7px 9px 1px #f2f2f2;
+    box-shadow: 0 7px 9px 1px #ececec;
 }
 .body-content .card .bar{
     width: 100%;
