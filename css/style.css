@@ -229,24 +229,7 @@ body{
         margin-bottom: 1.5rem;
     }
     
-    /*.body-content .b-head h3::before{
-        height: 1px;
-        width: 16%;
-        content: '';
-        background-color: #e1e1e1;
-        position: absolute;
-        left: 0;
-        top: 50%;
-    }
-    .body-content .b-head h3::after{
-        height: 1px;
-        width: 16%;
-        content: '';
-        background-color: #e1e1e1;
-        position: absolute;
-        right: 0;
-        top: 50%;
-    }*/
+    
     .body-content .card{
         margin-bottom: 1.5rem;
     }
@@ -590,24 +573,7 @@ body{
         top: 50%;
         z-index: -1;
     }
-    /*.body-content .b-head h3::before{
-        height: 1px;
-        width: 16%;
-        content: '';
-        background-color: #e1e1e1;
-        position: absolute;
-        left: 0;
-        top: 50%;
-    }
-    .body-content .b-head h3::after{
-        height: 1px;
-        width: 16%;
-        content: '';
-        background-color: #e1e1e1;
-        position: absolute;
-        right: 0;
-        top: 50%;
-    }*/
+    
 
     .body-content .card .bar .blue-bar{
         height: 3px;
@@ -782,15 +748,7 @@ body{
         top: 50%;
         z-index: -1;
     }
-    /*.body-content .b-head h3::after{
-        height: 1px;
-        width: 26%;
-        content: '';
-        background-color: #e1e1e1;
-        position: absolute;
-        right: 0;
-        top: 50%;
-    }*/
+    
 
     .body-content .card .bar .blue-bar{
         height: 3px;
@@ -1004,27 +962,14 @@ body{
         padding: 0px 10px;
         background-color: #fff;
     }
-   /* .body-content{
-        position: absolute;
-        left: 0;
-        right: 0;
-    }*/
+   
     .body-content .container.sec-1{
         background-color: #fff;
         margin-top: -5rem;
         z-index: 10000;
        
     }
-    /*.body-content .b-head h3::before{
-        height: 1px;
-        width: 30%;
-        content: '';
-        background-color: #e1e1e1;
-        position: absolute;
-        left: 0;
-        top: 50%;
-        
-    }*/
+    
     .body-content .b-head h3{
         z-index: 1000;
     }
@@ -1038,28 +983,12 @@ body{
         top: 50%;
         z-index: -1;
     }
-   /* .b-para{
-        width: 100%;
-        display: flex;
-        justify-content: center;
-    }*/
+   
     .b-head p{
         font-size: 21.63pt;
         width: 70%;
     }
-    /*.body-content .card{
-        display: flex;
-        justify-content: center;
-       
-    }
-    .body-content .card-body{
-        box-shadow: 0 7px 9px 1px #f2f2f2;
-    }
-    .body-content .card .bar{
-        width: 100%;
-        display: flex;
-        justify-content: center;
-    }*/
+    
     .body-content .card .bar .blue-bar{
         height: 3px;
         width: 34px;
